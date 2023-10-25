@@ -1,0 +1,14 @@
+name: exoticoptions2
+title: exoticoptions2
+username:
+account: exoticoptions
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8196480
+bundleId: 6799517
+url: https://exoticoptions.shinyapps.io/exoticoptions2/
+when: 1675284884.4347
+lastSyncTime: 1675284884.43471
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Alter Code/leo_test.R|Alter Code/test_antithetic.R|Alter Code/tim_test.R|Alter Code/tobi_test.R|Alter Code/yufei_test.R|donotdestroy.R|junk_donotdestroy.R|pdfoutput.pdf|pdfoutput.Rmd|README.md|UIDashboardTestfile|images
